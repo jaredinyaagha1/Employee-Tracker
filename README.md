@@ -6,3 +6,4 @@
 Click image for a demo of my Team Profile Generator
 <a href="https://watch.screencastify.com/v/ld5PfVsjleJcdkORhEwE"><img src="./Assets/Capture.PNG"></img></a>
 
+https://github.com/jaredinyaagha1/Employee-Tracker
