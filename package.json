@@ -1,0 +1,25 @@
+{
+    "name": "sql-employee-tracker",
+    "version": "1.0.0",
+    "description": "Tracking Employees!",
+    "main": "index.js",
+    "scripts": {
+        "test": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jaredinyaagha1/Employee-Tracker.git"
+    },
+    "author": "Jared Inya-Agha",
+    "license": "ISC",
+    "dependencies": {
+        "console.table": "^0.10.0",
+        "inquirer": "^8.1.2",
+        "mysql2": "^2.3.0",
+        "promise-mysql": "^5.0.3"
+    },
+    "bugs": {
+        "url": "https://github.com/jaredinyaagha1/Employee-Tracker/issues"
+    },
+    "homepage": "https://github.com/jaredinyaagha1/Employee-Tracker#readme"
+}
